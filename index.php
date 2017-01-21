@@ -1,7 +1,9 @@
 <?php
 	require_once('includes/header.php'); 
 ?>
-	
+
+<img src="images/weather.jpg">
+
 <div class="container contentContainer" id="topContainer">
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 center">
