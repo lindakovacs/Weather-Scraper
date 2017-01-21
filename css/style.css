@@ -1,24 +1,22 @@
-#topContainer {
-			width: 100%;
-			background-image: url('images/weatherBG.jpg');
-			background-size: cover;
-			background-position: center;
-			padding-top: 100px;
-		}
-		.center {
-			text-align: center;
-		}
-		.white {
-			color: white;
-		}
-		p {
-			padding-top: 15px;
-			padding-bottom: 15px;
-		}
-		button {
-			margin-top: 20px;
-		}
-		.alert {
-			margin-top: 20px;
-			display: none;
-		}
+
+html {
+            background: url(background.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        body {
+            background: none;
+        }
+        .container {
+            text-align: center;
+            margin-top: 100px;
+            width: 450px;
+        }
+        input {
+            margin: 20px 0;
+        }
+        #weather {
+            margin-top: 15px;
+        }
