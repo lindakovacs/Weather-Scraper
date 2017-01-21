@@ -2,7 +2,7 @@
 	require_once('includes/header.php'); 
 ?>
 
-<img src="images/weather.jpg">
+<! -- <img src="images/weather.jpg"> -->
 
 <div class="container">
         <h1>What's The Weather?</h1>
